@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Eat Daily</string>
+    <string name="home">Home</string>
+    <string name="favorite_restaurants">Favorite Restaurants</string>
+    <string name="my_profile">My Profile</string>
+    <string name="order_history">Order History</string>
+    <string name="faqs">FAQs</string>
+    <string name="log_out">Log out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="mobile_number_10_digits">Mobile Number (10 digits)</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account? Sign up now</string>
+    <string name="preference_file_name">SharedPreferences</string>
+    <string name="name_min_3_characters">Name (Min. 3 characters)</string>
+    <string name="email_address">Email Address</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="password_min_4_characters">Password (Min. 4 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="can_t_find_any_restaurant_with_that_name">No results found</string>
+    <string name="question1">Q1. Why is Food Runner doing this?</string>
+    <string name="answer1">A1. At Food Runner we strive to add value to your business. We understand the challenges you face on a daily basis in sourcing the best quality packaging material. Food Runner Packaging Assist is to take care of all your packaging needs.</string>
+    <string name="question2">Q2. How are you guys are different?</string>
+    <string name="answer2">A2. Best products - We only list the products which have passed our tests and are the best suitable for delivery. They will help in giving a better consumer experience, so you can get get repeated orders. Best prices - We have negotiated rates with our distributors exclusive for Food Runner Restaurant. Convenience - No need to haggle for prices. No need to follow-up on delivery. We track all orders to ensure you have a hassle free experience.</string>
+    <string name="question3">Q3. Why is Food Runner doing this?</string>
+    <string name="answer3">A3. At Food Runner we strive to add value to your business. We understand the challenges you face on a daily basis in sourcing the best quality packaging material. Food Runner Packaging Assist is to take care of all your packaging needs.</string>
+    <string name="question4">Q4. How are you guys are different?</string>
+    <string name="answer4">A4. Best products - We only list the products which have passed our tests and are the best suitable for delivery. They will help in giving a better consumer experience, so you can get get repeated orders. Best prices - We have negotiated rates with our distributors exclusive for Food Runner Restaurant. Convenience - No need to haggle for prices. No need to follow-up on delivery. We track all orders to ensure you have a hassle free experience.</string>
+    <string name="add">Add</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below:</string>
+    <string name="proceed_to_cart">Proceed to Cart</string>
+    <string name="ordering_from">Ordering From</string>
+    <string name="place_order">Place Order</string>
+    <string name="your_order_has_been_successfully_placed">Your order has been successfully placed</string>
+    <string name="your_previous_orders_are_listed_below">Your previous orders are listed below:</string>
+    <string name="no_orders_placed">No Orders Placed</string>
+</resources>
